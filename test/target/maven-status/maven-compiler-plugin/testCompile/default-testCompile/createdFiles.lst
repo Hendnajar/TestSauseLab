@@ -1,0 +1,8 @@
+Saucelab\pagefactory\PurchaseDone.class
+Saucelab\tests\BaseTest.class
+Saucelab\tests\PurchaceTest.class
+Saucelab\tests\HomePageTests.class
+org\example\AppTest.class
+Saucelab\pagefactory\LoginPage.class
+Saucelab\pagefactory\Homepage.class
+Saucelab\tests\LoginTests.class
